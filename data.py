@@ -1,0 +1,15 @@
+playgolf = [
+    { "OUTLOOK": "sunny",    "TEMPERATURE": 85, "HUMIDITY": 85, "WIND": False, "PLAY": False },
+    { "OUTLOOK": "sunny",    "TEMPERATURE": 80, "HUMIDITY": 90, "WIND": True,  "PLAY": False },
+    { "OUTLOOK": "overcast", "TEMPERATURE": 83, "HUMIDITY": 78, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "rain",     "TEMPERATURE": 70, "HUMIDITY": 96, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "rain",     "TEMPERATURE": 68, "HUMIDITY": 80, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "rain",     "TEMPERATURE": 65, "HUMIDITY": 70, "WIND": True,  "PLAY": False },
+    { "OUTLOOK": "overcast", "TEMPERATURE": 64, "HUMIDITY": 65, "WIND": True,  "PLAY": True  },
+    { "OUTLOOK": "sunny",    "TEMPERATURE": 72, "HUMIDITY": 95, "WIND": False, "PLAY": False },
+    { "OUTLOOK": "sunny",    "TEMPERATURE": 69, "HUMIDITY": 70, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "rain",     "TEMPERATURE": 75, "HUMIDITY": 80, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "sunny",    "TEMPERATURE": 75, "HUMIDITY": 70, "WIND": True,  "PLAY": True  },
+    { "OUTLOOK": "overcast", "TEMPERATURE": 72, "HUMIDITY": 90, "WIND": True,  "PLAY": True  },
+    { "OUTLOOK": "overcast", "TEMPERATURE": 81, "HUMIDITY": 75, "WIND": False, "PLAY": True  },
+    { "OUTLOOK": "rain",     "TEMPERATURE": 71, "HUMIDITY": 80, "WIND": True,  "PLAY": False }]
